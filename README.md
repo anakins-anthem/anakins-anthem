@@ -1,2 +1,7 @@
-![Image](https://github.com/user-attachments/assets/6161e4c6-4a40-434f-bec3-a79b00baef0b)
+![Image](https://github.com/user-attachments/assets/52ddc120-b562-42fa-b1ef-71c12a50d7d7)
 
+🧟‍♂️— . . .ṛεꪑ𝒚.ᐟ
+
+— . .multifandom .ᐟ see straw byi>o< .ᐟ
+
+— .huge f1 .ᐟ starwars .ᐟ hannibal .ᐟ spn .ᐟ deathstranding fan>⩊< .ᐟ INT (^O^)/
