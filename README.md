@@ -2,6 +2,6 @@
 
 🧟‍♂️— . . .ṛεꪑ𝒚.ᐟ
 
-— . .multifandom .ᐟ see straw byi>o< .ᐟ
+— . .multifandom .ᐟ see straw byi·﹏ .ᐟ
 
-— .huge f1 .ᐟ starwars .ᐟ hannibal .ᐟ spn .ᐟ deathstranding fan>⩊< .ᐟ INT (^O^)/
+— .huge f1 .ᐟ starwars .ᐟ hannibal .ᐟ spn .ᐟ deathstranding fan.ᐟ INT —.ᐟ⛧
