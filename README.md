@@ -1,6 +1,6 @@
    ![](https://komarev.com/ghpvc/?username=anakins-anthem&label=clonetroopers)
 
-![Image](https://github.com/user-attachments/assets/52ddc120-b562-42fa-b1ef-71c12a50d7d7)
+![Image](https://github.com/user-attachments/assets/68e83506-00a0-489a-9ac0-f868c7526c01)
 
    [straw](https://anakins.straw.page) •     [insta](https://www.instagram.com/anakinsanthem?igsh=MWdhMnNoNWM2YTdtdg==)   • [ata](https://jotunheim.atabook.org)
 
