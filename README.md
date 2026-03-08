@@ -1,6 +1,6 @@
    ![](https://komarev.com/ghpvc/?username=anakins-anthem&label=clonetroopers)
 
-![Image](https://github.com/user-attachments/assets/8f1de2d2-1e39-4bc1-9282-ad0a5b91c991)
+![Image](https://github.com/user-attachments/assets/3f355986-6d71-482e-b63c-4c3004aa7124)
 
    [straw](https://anakins.straw.page) •     [insta](https://www.instagram.com/anakinsanthem?igsh=MWdhMnNoNWM2YTdtdg==)   • [rblx](https://www.roblox.com/share?code=b943d053c294a241b7b20a0db515755a&type=Profile&source=ProfileShare&stamp=1772261850603)
 
