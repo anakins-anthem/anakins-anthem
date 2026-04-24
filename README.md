@@ -3,7 +3,7 @@
 
 ﹏﹏﹏﹏﹏﹏﹏ ![](https://komarev.com/ghpvc/?username=anakins-anthem&label=clonetroopers) ﹏﹏﹏﹏﹏﹏﹏
 
- *a drag path, etched in the surface as evidence ...*
+ *well, if there's a bright center to the universe, you're on a planet that it's farthest from ... :(*
 
 ﹏﹏﹏﹏﹏﹏﹏ [straw](https://anakins.straw.page) •     [insta](https://www.instagram.com/anakinsanthem?igsh=MWdhMnNoNWM2YTdtdg==)   • [carrd](https://jjotunheim.carrd.co) ﹏﹏﹏﹏﹏﹏
 
