@@ -5,6 +5,6 @@
  ﹏﹏﹏﹏﹏﹏﹏﹏ ![](https://komarev.com/ghpvc/?username=anakins-anthem&label=taxidermy&color=161615&base=7000) ﹏﹏﹏﹏﹏﹏﹏
 
   ... [<img width="95" height="90" alt="Image" src="https://github.com/user-attachments/assets/b7c33f0b-a5dd-471d-b71f-dfdcaa348853" />](https://anakins.straw.page)
-[<img width="95" height="90" alt="Image" src="https://github.com/user-attachments/assets/147b2311-de05-4211-ba0b-4eec5bcf8ee5" />](https://jjotunheim.carrd.co)
-[<img width="95" height="90" alt="Image" src="https://github.com/user-attachments/assets/055b0f73-5f06-438a-a81a-1ed09eed4833" />](https://jotunheim.atabook.org)
+[<img width="95" height="90" alt="Image" src="https://github.com/user-attachments/assets/edc6bdbc-7d7f-4a29-aba3-baa87d3b250a" />](https://jjotunheim.carrd.co)
+[<img width="95" height="90" alt="Image" src="https://github.com/user-attachments/assets/ccbc98b1-5c3e-453d-87d5-42e8cf234a9c" />](https://jotunheim.atabook.org)
 
