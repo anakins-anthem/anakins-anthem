@@ -1,7 +1,7 @@
 
 ![Image](https://github.com/user-attachments/assets/3f355986-6d71-482e-b63c-4c3004aa7124)
 
-﹏﹏﹏﹏﹏﹏﹏ ![](https://komarev.com/ghpvc/?username=anakins-anthem&label=clonetroopers) ﹏﹏﹏﹏﹏﹏
+﹏﹏﹏﹏﹏﹏﹏ ![](https://komarev.com/ghpvc/?username=anakins-anthem&label=taxidermy&color=161615&base=1000) ﹏﹏﹏﹏﹏﹏
 
 '*well . . . if there's a bright center to this universe,  you're on the planet that it's farthest from . . . :(*  
 
