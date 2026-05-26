@@ -7,5 +7,3 @@
 [<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/147b2311-de05-4211-ba0b-4eec5bcf8ee5" />](https://jjotunheim.carrd.co)
 [<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/055b0f73-5f06-438a-a81a-1ed09eed4833" />](https://jotunheim.atabook.org)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312mkuja4aqepb4xqbmoyphtev5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=1d345e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
