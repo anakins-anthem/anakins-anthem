@@ -15,7 +15,13 @@
 
 <div align="center">
 
-[<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/8df93316-e823-4964-8d73-8b5cbe748266" />](https://anakins.straw.page) 
+<a href="https://anakins.straw.page">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/588d41f6-a182-4a3d-a0d6-7827c268468e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/588d41f6-a182-4a3d-a0d6-7827c268468e">
+    <img alt="Image" src="https://github.com/user-attachments/assets/588d41f6-a182-4a3d-a0d6-7827c268468e" width="85" height="95">
+  </picture>
+</a>
 <a href="https://bulllseye.carrd.co">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/93b0abbc-6fdf-42ea-afee-002f4586d2c1">
@@ -23,6 +29,12 @@
     <img alt="Image" src="https://github.com/user-attachments/assets/93b0abbc-6fdf-42ea-afee-002f4586d2c1" width="85" height="100">
   </picture>
 </a> 
-[<img width="100" height="85" alt="Image" src="https://github.com/user-attachments/assets/27c9017e-147d-4eba-b723-b0864d269d5c" />](https://bulllseye.atabook.org)
+<a href="https://bulllseye.atabook.org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/51621fa8-a04f-484d-b11c-fe15517b9e90">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/51621fa8-a04f-484d-b11c-fe15517b9e90">
+    <img alt="Image" src="https://github.com/user-attachments/assets/51621fa8-a04f-484d-b11c-fe15517b9e90" width="110" height="100">
+  </picture>
+</a>
 
 </div>
