@@ -47,3 +47,13 @@
 </a>
 
 </div>
+
+<div align ="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e722f35b-d63c-449e-b1a9-a81fdca591ba">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e722f35b-d63c-449e-b1a9-a81fdca591ba">  
+  <img alt="Image" src="https://github.com/user-attachments/assets/e722f35b-d63c-449e-b1a9-a81fdca591ba">
+</picture>
+
+</div>
