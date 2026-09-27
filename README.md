@@ -1,23 +1,14 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c1baf3db-4916-4302-9168-ad6b9f441882">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assests/c1baf3db-4916-4302-9168-ad6b9f441882"> 
- <img alt="Image" src="https://github.com/user-attachments/assets/c1baf3db-4916-4302-9168-ad6b9f441882">
-</picture>
-
-</div>
 
 <div align="center">
 
-<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/6e1bee4f-cbf5-4ee4-b75c-b531c38a43b0" />
+<img width="272" height="272" alt="Image" src="https://github.com/user-attachments/assets/552e667d-b15b-4311-b3a2-3cad841e98c3" />
 
 </div>
 
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=anakins-anthem&label=cunt+count&color=161615&base=7000)](https://github.com/anakins-anthem)
+[![](https://komarev.com/ghpvc/?username=anakins-anthem&label=moe+lester&color=161615&base=7000)](https://github.com/anakins-anthem)
 
 </div>
 
@@ -45,15 +36,5 @@
     <img alt="Image" src="https://github.com/user-attachments/assets/51621fa8-a04f-484d-b11c-fe15517b9e90" width="110" height="100">
   </picture>
 </a>
-
-</div>
-
-<div align ="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e722f35b-d63c-449e-b1a9-a81fdca591ba">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e722f35b-d63c-449e-b1a9-a81fdca591ba">  
-  <img alt="Image" src="https://github.com/user-attachments/assets/e722f35b-d63c-449e-b1a9-a81fdca591ba">
-</picture>
 
 </div>
